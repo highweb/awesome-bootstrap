@@ -6,5 +6,5 @@ A curated list of awesome Bootstrap 4 resources:
 - [Bootstrap Kit](https://bootstrap-kit.highweb.tech/) - All you want from Bootstrap but don't have in Bootstrap (yet).
 - [Bootstrap Float Label](https://github.com/tonystar/bootstrap-float-label) - Pure CSS implementation of Float Label pattern for Bootstrap 4.
 - [ng-bootstrap](https://ng-bootstrap.github.io/) - Bootstrap 4 components, powered by Angular 2 and written by the angular-ui Team.
-- [Material Design for Bootstrap](http://mdbootstrap.com/) - Powerful and free UI KIT for Bootstrap 4.
+- [Material Design for Bootstrap](http://mdbootstrap.com/material-design-for-bootstrap/) - Powerful and free UI KIT for Bootstrap 4.
 - [Awesome Bootstrap 4](https://github.com/highweb/awesome-bootstrap4) - A curated list of awesome Bootstrap 4 resources.

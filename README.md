@@ -2,8 +2,8 @@
 
 A curated list of awesome Bootstrap 4 resources:
 
-- [Official Bootstrap 4 site](https://v4-alpha.getbootstrap.com/) - Bootstrap is the most popular HTML, CSS, and JS framework in the world for building responsive, mobile-first projects on the web.
-- [Bootstrap Kit](https://bootstrap-kit.highweb.tech/) - All you want from Bootstrap but don't have in Bootstrap (yet).
+- [Bootstrap 4](https://v4-alpha.getbootstrap.com/) - Official Bootstrap 4 site.
+- [Bootstrap Kit](https://bootstrap-kit.com/) - All you want from Bootstrap but don't have in Bootstrap (yet).
 - [Bootstrap Float Label](https://github.com/tonystar/bootstrap-float-label) - Pure CSS implementation of Float Label pattern for Bootstrap 4.
 - [ng-bootstrap](https://ng-bootstrap.github.io/) - Bootstrap 4 components, powered by Angular 2 and written by the angular-ui Team.
 - [Material Design for Bootstrap](http://mdbootstrap.com/material-design-for-bootstrap/) - Powerful and free UI KIT for Bootstrap 4.

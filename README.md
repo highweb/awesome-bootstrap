@@ -20,5 +20,8 @@ A curated list of awesome Bootstrap 4 resources:
 - [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) -  Twitter Bootstrap 4 Components For Vue.js 2
 - [reactstrap](https://github.com/reactstrap/reactstrap) -  Simple React Bootstrap 4 components
 
+## Tutorials
+- [On Hackr.io](https://hackr.io/tutorials/learn-bootstrap) - Bootstrap Tutorials and Courses
+
 ## Docs
 - [Awesome Bootstrap 4](https://github.com/highweb/awesome-bootstrap) - A curated list of awesome Bootstrap 4 resources.
